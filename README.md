@@ -4,15 +4,15 @@
 Este proyecto tiene como objetivo fortalecer tus habilidades en lógica de programación mediante el desarrollo de una aplicación sencilla que permite:
 Agregar nombres de amigos a una lista.Visualizar la lista de amigos en una distribución por columnas.Realizar un sorteo para seleccionar aleatoriamente un "amigo secreto".Reiniciar la lista después del sorteo.
 
-## Características
+## Características :ledger:
 
-  -Validación de entradas para evitar valores vacíos, números o nombres duplicados.
+  -`Validación de entradas para evitar valores vacíos, números o nombres duplicados.`
   
-  -Representación dinámica de los amigos agregados en una interfaz con columnas.
+  -`Representación dinámica de los amigos agregados en una interfaz con columnas.`
   
-  -Funcionalidad de sorteo aleatorio de un amigo secreto.
+  -`Funcionalidad de sorteo aleatorio de un amigo secreto.`
   
-  -Botón de sorteo que se habilita automáticamente al alcanzar un mínimo de dos amigos.
+  -`Botón de sorteo que se habilita automáticamente al alcanzar un mínimo de dos amigos.`
   
 
 ## Tecnologías Utilizadas
@@ -25,7 +25,7 @@ Agregar nombres de amigos a una lista.Visualizar la lista de amigos en una distr
 - JavaScript: Lógica de programación y manipulación del DOM.
 
 
-## CÓMO USAR
+## CÓMO USAR :white_check_mark:
 
 
 -**Agregar Amigos:**
@@ -52,7 +52,7 @@ git clone https://github.com/AlvaroTabiloS/challenge-amigo-secreto
 
 Abre el archivo index.html en tu navegador favorito.
 
-## Personalización
+## Personalización :pencil2:
 
 Puedes modificar los estilos o la estructura según tus necesidades:
 
