@@ -16,7 +16,9 @@ Características
 Tecnologías Utilizadas
 
   -HTML: Estructura de la interfaz.
+  
   -CSS: Estilizado de los elementos de la interfaz (no incluido en este archivo, pero se puede agregar para personalizar el diseño).
+  
   -JavaScript: Lógica de programación y manipulación del DOM.
 
 
